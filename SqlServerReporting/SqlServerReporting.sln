@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SqlServerReporting", "SqlServerReporting\SqlServerReporting.rptproj", "{D15DD3B3-2A25-4863-8286-7C27B6E30EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15DD3B3-2A25-4863-8286-7C27B6E30EB5}.Debug|Default.ActiveCfg = Debug
+		{D15DD3B3-2A25-4863-8286-7C27B6E30EB5}.Debug|Default.Build.0 = Debug
+		{D15DD3B3-2A25-4863-8286-7C27B6E30EB5}.Debug|Default.Deploy.0 = Debug
+		{D15DD3B3-2A25-4863-8286-7C27B6E30EB5}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{D15DD3B3-2A25-4863-8286-7C27B6E30EB5}.DebugLocal|Default.Build.0 = DebugLocal
+		{D15DD3B3-2A25-4863-8286-7C27B6E30EB5}.Release|Default.ActiveCfg = Release
+		{D15DD3B3-2A25-4863-8286-7C27B6E30EB5}.Release|Default.Build.0 = Release
+		{D15DD3B3-2A25-4863-8286-7C27B6E30EB5}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE2A3629-6252-4708-B617-B4FE96BB3075}
+	EndGlobalSection
+EndGlobal
